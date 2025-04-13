@@ -2,3 +2,4 @@ env/
 mlruns/
 logs/
 HotelReservationPrediction.egg-info/
+service_account_key_gcp.json/
